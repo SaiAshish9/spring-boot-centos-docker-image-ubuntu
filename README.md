@@ -15,6 +15,11 @@ sudo docker rm -f 735
 
 sudo docker logs 927
 
+sudo docker stop 927
+
+sudo docker rm 927
+
+
 ```
 
  
