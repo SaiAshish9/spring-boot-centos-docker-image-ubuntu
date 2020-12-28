@@ -7,4 +7,6 @@ sudo docker ps -a
 
 sudo docker rm -f 735
 
+sudo docker logs centos-deployment 
+
 ```
